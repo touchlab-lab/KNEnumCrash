@@ -1,0 +1,4 @@
+rootProject.name = 'KNEnumCrash'
+
+
+enableFeaturePreview('GRADLE_METADATA')

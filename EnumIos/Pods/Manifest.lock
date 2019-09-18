@@ -1,0 +1,16 @@
+PODS:
+  - KNEnumCrash (0.0.1)
+
+DEPENDENCIES:
+  - KNEnumCrash (from `..`)
+
+EXTERNAL SOURCES:
+  KNEnumCrash:
+    :path: ".."
+
+SPEC CHECKSUMS:
+  KNEnumCrash: 763a2fd56ef8bc639d3204179223d682c6ef792f
+
+PODFILE CHECKSUM: e5ca720745c2e16bccd621eeedd13ef4a98693a2
+
+COCOAPODS: 1.7.5
