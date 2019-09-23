@@ -17,8 +17,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         
-//        let nah = Hey.b
-        
+        SampleKt.touch()
         DispatchQueue.global(qos: .background).async { // sends registration to background queue
             let ee = Hey.b
             print("Hey \(ee)")
